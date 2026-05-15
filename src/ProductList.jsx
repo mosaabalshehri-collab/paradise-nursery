@@ -10,13 +10,11 @@ function ProductList() {
   const dispatch = useDispatch();
   const cartItems = useSelector((state) => state.cart.items);
 
-  // إجمالي عدد العناصر في السلة (مجموع الكميات)
   const totalQuantity = cartItems.reduce(
     (total, item) => total + item.quantity,
     0
   );
 
-  // مزامنة حالة الأزرار مع السلة (لو حُذف عنصر يرجع الزر مفعّل)
   useEffect(() => {
     const updatedAddedToCart = {};
     cartItems.forEach((item) => {
@@ -243,7 +241,6 @@ function ProductList() {
 
   return (
     <div className="product-list-container">
-      {/* الـ Header الموحد */}
       <div className="navbar">
         <div className="navbar-left">
           <div className="logo-container">
@@ -259,21 +256,17 @@ function ProductList() {
           </div>
         </div>
         <div className="navbar-center">
-          {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
           <a href="#" onClick={handleHomeClick} className="nav-link">
             Home
           </a>
-          {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
           <a href="#" onClick={handlePlantsClick} className="nav-link">
             Plants
           </a>
-          {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
           <a href="#" onClick={handleCartClick} className="nav-link">
             Cart
           </a>
         </div>
         <div className="navbar-right">
-          {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
           <a href="#" onClick={handleCartClick} className="cart-link">
             <svg
               xmlns="http://www.w3.org/2000/svg"
