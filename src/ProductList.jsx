@@ -32,42 +32,42 @@ function ProductList() {
         {
           name: 'Snake Plant',
           image:
-            'https://cdn.pixabay.com/photo/2021/01/22/06/04/snake-plant-5942011_1280.jpg',
+            'https://images.unsplash.com/photo-1593482892290-f54927ae1bb6?w=800&auto=format&fit=crop&q=60',
           description: 'Produces oxygen at night, improving air quality.',
           cost: '$15',
         },
         {
           name: 'Spider Plant',
           image:
-            'https://cdn.pixabay.com/photo/2018/07/11/06/47/chlorophytum-3530413_1280.jpg',
+            'https://images.unsplash.com/photo-1572688484438-313a6e50c333?w=800&auto=format&fit=crop&q=60',
           description: 'Filters formaldehyde and xylene from the air.',
           cost: '$12',
         },
         {
           name: 'Peace Lily',
           image:
-            'https://cdn.pixabay.com/photo/2019/06/12/00/37/spathiphyllum-4267323_1280.jpg',
+            'https://images.unsplash.com/photo-1593691509543-c55fb32d8de5?w=800&auto=format&fit=crop&q=60',
           description: 'Removes mold spores and purifies the air.',
           cost: '$18',
         },
         {
           name: 'Boston Fern',
           image:
-            'https://cdn.pixabay.com/photo/2020/04/07/17/01/boston-fern-5014673_1280.jpg',
+            'https://images.unsplash.com/photo-1599598425947-5b4ad97ee47e?w=800&auto=format&fit=crop&q=60',
           description: 'Adds humidity and removes formaldehyde.',
           cost: '$20',
         },
         {
           name: 'Rubber Plant',
           image:
-            'https://cdn.pixabay.com/photo/2020/02/15/11/49/flower-4850729_1280.jpg',
+            'https://images.unsplash.com/photo-1602923668104-8f9e03e77e62?w=800&auto=format&fit=crop&q=60',
           description: 'Easy to care for and removes toxins from the air.',
           cost: '$17',
         },
         {
           name: 'Aloe Vera',
           image:
-            'https://cdn.pixabay.com/photo/2018/04/02/07/42/leaf-3283175_1280.jpg',
+            'https://images.unsplash.com/photo-1509423350716-97f9360b4e09?w=800&auto=format&fit=crop&q=60',
           description: 'Easy to maintain and great for skin ailments.',
           cost: '$14',
         },
@@ -93,28 +93,28 @@ function ProductList() {
         {
           name: 'Rosemary',
           image:
-            'https://cdn.pixabay.com/photo/2019/10/11/07/12/rosemary-4541752_1280.jpg',
+            'https://images.unsplash.com/photo-1515586000433-45406d8e6662?w=800&auto=format&fit=crop&q=60',
           description: 'Invigorating scent, often used in cooking.',
           cost: '$15',
         },
         {
           name: 'Mint',
           image:
-            'https://cdn.pixabay.com/photo/2016/01/07/18/16/mint-1126282_1280.jpg',
+            'https://images.unsplash.com/photo-1628557044797-f21a177c37ec?w=800&auto=format&fit=crop&q=60',
           description: 'Refreshing aroma, used in teas and cooking.',
           cost: '$12',
         },
         {
           name: 'Lemon Balm',
           image:
-            'https://cdn.pixabay.com/photo/2019/09/16/16/00/melissa-4481948_1280.jpg',
+            'https://images.unsplash.com/photo-1599940824399-b87987ceb72a?w=800&auto=format&fit=crop&q=60',
           description: 'Citrusy scent, relieves stress and promotes sleep.',
           cost: '$14',
         },
         {
           name: 'Hyacinth',
           image:
-            'https://cdn.pixabay.com/photo/2019/04/07/20/20/hyacinth-4110726_1280.jpg',
+            'https://images.unsplash.com/photo-1587316830437-ed3ec70c9f3d?w=800&auto=format&fit=crop&q=60',
           description: 'Beautiful flowering plant with a strong fragrance.',
           cost: '$22',
         },
@@ -126,28 +126,28 @@ function ProductList() {
         {
           name: 'Oregano',
           image:
-            'https://cdn.pixabay.com/photo/2015/05/30/21/20/oregano-790702_1280.jpg',
+            'https://images.unsplash.com/photo-1583119022894-919a68a3d0e3?w=800&auto=format&fit=crop&q=60',
           description: 'The oregano plants contains compounds that can deter certain insects.',
           cost: '$10',
         },
         {
           name: 'Marigold',
           image:
-            'https://cdn.pixabay.com/photo/2022/02/22/05/45/flowers-7028141_1280.jpg',
+            'https://images.unsplash.com/photo-1597848212624-a19eb35e2651?w=800&auto=format&fit=crop&q=60',
           description: 'Natural insect repellent, also adds color to the garden.',
           cost: '$8',
         },
         {
           name: 'Geraniums',
           image:
-            'https://cdn.pixabay.com/photo/2012/04/01/17/29/flowers-23810_1280.jpg',
+            'https://images.unsplash.com/photo-1599598425947-5b4ad97ee47e?w=800&auto=format&fit=crop&q=60',
           description: 'Known for their insect-repelling properties while adding a pleasant scent.',
           cost: '$20',
         },
         {
           name: 'Basil',
           image:
-            'https://cdn.pixabay.com/photo/2016/07/24/20/48/tulsi-1539181_1280.jpg',
+            'https://images.unsplash.com/photo-1538596313828-41d729090199?w=800&auto=format&fit=crop&q=60',
           description: 'Repels flies and mosquitoes, also used in cooking.',
           cost: '$9',
         },
@@ -161,7 +161,7 @@ function ProductList() {
         {
           name: 'Catnip',
           image:
-            'https://cdn.pixabay.com/photo/2015/07/02/21/55/cat-829681_1280.jpg',
+            'https://images.unsplash.com/photo-1574027542338-98e75acfd385?w=800&auto=format&fit=crop&q=60',
           description: 'Repels mosquitoes and attracts cats.',
           cost: '$13',
         },
@@ -173,42 +173,42 @@ function ProductList() {
         {
           name: 'Aloe Vera',
           image:
-            'https://cdn.pixabay.com/photo/2018/04/02/07/42/leaf-3283175_1280.jpg',
+            'https://images.unsplash.com/photo-1509423350716-97f9360b4e09?w=800&auto=format&fit=crop&q=60',
           description: 'Soothing gel used for skin ailments.',
           cost: '$14',
         },
         {
           name: 'Echinacea',
           image:
-            'https://cdn.pixabay.com/photo/2014/12/05/03/53/echinacea-557477_1280.jpg',
+            'https://images.unsplash.com/photo-1597305877032-0668b3c6413b?w=800&auto=format&fit=crop&q=60',
           description: 'Boosts immune system and reduces inflammation.',
           cost: '$16',
         },
         {
           name: 'Peppermint',
           image:
-            'https://cdn.pixabay.com/photo/2017/07/12/12/23/peppermint-2496773_1280.jpg',
+            'https://images.unsplash.com/photo-1628556270448-4d4e4148e1a1?w=800&auto=format&fit=crop&q=60',
           description: 'Relieves digestive issues and headaches.',
           cost: '$13',
         },
         {
           name: 'Lemon Balm',
           image:
-            'https://cdn.pixabay.com/photo/2019/09/16/16/00/melissa-4481948_1280.jpg',
+            'https://images.unsplash.com/photo-1599940824399-b87987ceb72a?w=800&auto=format&fit=crop&q=60',
           description: 'Calms nerves and promotes relaxation.',
           cost: '$14',
         },
         {
           name: 'Chamomile',
           image:
-            'https://cdn.pixabay.com/photo/2016/06/22/14/05/daisies-1473034_1280.jpg',
+            'https://images.unsplash.com/photo-1587593810167-a84920ea0781?w=800&auto=format&fit=crop&q=60',
           description: 'Soothes anxiety and promotes sleep.',
           cost: '$15',
         },
         {
           name: 'Calendula',
           image:
-            'https://cdn.pixabay.com/photo/2019/07/14/20/55/marigold-4337571_1280.jpg',
+            'https://images.unsplash.com/photo-1597305877032-0668b3c6413b?w=800&auto=format&fit=crop&q=60',
           description: 'Heals wounds and soothes skin irritations.',
           cost: '$12',
         },
