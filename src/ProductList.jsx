@@ -30,7 +30,7 @@ function ProductList() {
         {
           name: 'Snake Plant',
           image:
-            'https://cdn.pixabay.com/photo/2021/01/22/06/04/snake-plant-5942011_1280.jpg',
+            'https://www.thesill.com/cdn/shop/files/The-Sill_Large-Snake-Laurentii_gallery_all_all_02.jpg?v=1775168192&width=1445',
           description: 'Produces oxygen at night, improving air quality.',
           cost: '$15',
         },
@@ -44,21 +44,21 @@ function ProductList() {
         {
           name: 'Peace Lily',
           image:
-            'https://cdn.pixabay.com/photo/2019/06/12/00/37/spathiphyllum-4267323_1280.jpg',
+            'https://cdn.shopify.com/s/files/1/0852/6482/6664/files/bloomscape_peace-lily6_md_detail-scaled.jpg?v=1718654386',
           description: 'Removes mold spores and purifies the air.',
           cost: '$18',
         },
         {
           name: 'Boston Fern',
           image:
-            'https://cdn.pixabay.com/photo/2020/04/07/17/01/boston-fern-5014673_1280.jpg',
+            'https://www.houseplant.co.uk/cdn/shop/files/Boston_Fern_Tropical_Houseplant_1.jpg?v=1763376985&width=1946',
           description: 'Adds humidity and removes formaldehyde.',
           cost: '$20',
         },
         {
           name: 'Rubber Plant',
           image:
-            'https://cdn.pixabay.com/photo/2020/02/15/11/49/flower-4850729_1280.jpg',
+            'https://www.ohiotropics.com/wp-content/uploads/2020/02/resized-Depositphotos_111178990_s-2019.jpg',
           description: 'Easy to care for and removes toxins from the air.',
           cost: '$17',
         },
@@ -91,7 +91,7 @@ function ProductList() {
         {
           name: 'Rosemary',
           image:
-            'https://cdn.pixabay.com/photo/2019/10/11/07/12/rosemary-4541752_1280.jpg',
+            'https://t4.ftcdn.net/jpg/05/96/99/21/360_F_596992129_GGSaFMIWjMrc1zdEOBjf4VZZvpTiKdVN.jpg',
           description: 'Invigorating scent, often used in cooking.',
           cost: '$15',
         },
@@ -105,7 +105,7 @@ function ProductList() {
         {
           name: 'Lemon Balm',
           image:
-            'https://cdn.pixabay.com/photo/2019/09/16/16/00/melissa-4481948_1280.jpg',
+            'https://www.gardenia.net/wp-content/uploads/2023/05/melissa-officinalis-780x520.webp',
           description: 'Citrusy scent, relieves stress and promotes sleep.',
           cost: '$14',
         },
@@ -131,14 +131,14 @@ function ProductList() {
         {
           name: 'Marigold',
           image:
-            'https://cdn.pixabay.com/photo/2022/02/22/05/45/flowers-7028141_1280.jpg',
+            'https://cdn.create.vista.com/api/media/small/76399663/stock-photo-marigold-flower',
           description: 'Natural insect repellent, also adds color to the garden.',
           cost: '$8',
         },
         {
           name: 'Geraniums',
           image:
-            'https://cdn.pixabay.com/photo/2012/04/01/17/29/flowers-23810_1280.jpg',
+            'https://momcrieff.com/wp-content/uploads/2023/01/red-geranium-thrill-fill-and-spill-window-box-copy-1.jpg',
           description: 'Known for their insect-repelling properties while adding a pleasant scent.',
           cost: '$20',
         },
@@ -192,21 +192,21 @@ function ProductList() {
         {
           name: 'Lemon Balm',
           image:
-            'https://cdn.pixabay.com/photo/2019/09/16/16/00/melissa-4481948_1280.jpg',
+            'https://www.gardenia.net/wp-content/uploads/2023/05/melissa-officinalis-780x520.webp',
           description: 'Calms nerves and promotes relaxation.',
           cost: '$14',
         },
         {
           name: 'Chamomile',
           image:
-            'https://cdn.pixabay.com/photo/2016/06/22/14/05/daisies-1473034_1280.jpg',
+            'https://images.immediate.co.uk/production/volatile/sites/10/2022/02/GettyImages-1201550930-2a50aff.jpeg?quality=90&resize=940,627',
           description: 'Soothes anxiety and promotes sleep.',
           cost: '$15',
         },
         {
           name: 'Calendula',
           image:
-            'https://cdn.pixabay.com/photo/2019/07/14/20/55/marigold-4337571_1280.jpg',
+            'https://agresearch.montana.edu/warc/images/banners/calendula-banner.jpg',
           description: 'Heals wounds and soothes skin irritations.',
           cost: '$12',
         },
