@@ -1,4 +1,4 @@
-# 🌿 Paradise Nursery
+#  Paradise Nursery
 
 **Where Green Meets Serenity**
 
@@ -6,11 +6,11 @@ A React-based e-commerce front-end for a houseplant nursery, built as a final pr
 
 ---
 
-## 📋 Project Overview
+##  Project Overview
 
 Paradise Nursery is a single-page application that lets users browse a curated collection of houseplants, add them to a shopping cart, and manage their cart before checkout. The app demonstrates core React concepts including component composition, state management with Redux Toolkit, and dynamic UI updates.
 
-## ✨ Features
+##  Features
 
 ### Landing Page
 - Background image with a welcoming hero section
@@ -41,7 +41,7 @@ Paradise Nursery is a single-page application that lets users browse a curated c
 - Cart icon dynamically shows the total number of items
 - Navigation links: Home, Plants, Cart
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **React 18** — UI library
 - **Redux Toolkit** — State management for the shopping cart
@@ -49,7 +49,7 @@ Paradise Nursery is a single-page application that lets users browse a curated c
 - **CSS3** — Styling (no external UI libraries)
 - **Create React App** — Build tooling
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 paradise-nursery/
@@ -71,7 +71,7 @@ paradise-nursery/
 └── package.json
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js (v16 or later)
@@ -110,7 +110,7 @@ npm run build
    npm run deploy
    ```
 
-## 🎯 Evaluation Criteria Covered
+##  Evaluation Criteria Covered
 
 | Requirement | Status |
 |---|---|
@@ -126,7 +126,7 @@ npm run build
 | Continue Shopping and Checkout buttons | ✅ |
 | Redux state management | ✅ |
 
-## 👤 Author
+##  Author
 
 **Mosaab Alshehri** — Software Engineering, University of Jeddah
 
